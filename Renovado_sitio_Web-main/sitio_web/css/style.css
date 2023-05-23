@@ -3,11 +3,11 @@ margin:0em;
 }
 .cover{
     height:400px ;
-background-image:url("C:/Users/ALUMNOS/Documents/Renovado_sitio_Web-main/sitio_web/img/portadarayo.jpg");
+background-image: url("../img/portada.jpeg");
 color: white;
 background-size: cover;
 background-position: center;
-background-color: rgba(0, 0, 0, 0.26);
+background-color: rgb(0,0,0,0.5);
 background-blend-mode: darken;
 
 }

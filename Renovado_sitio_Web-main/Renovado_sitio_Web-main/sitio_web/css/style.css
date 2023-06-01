@@ -3,11 +3,11 @@ margin:0em;
 }
 .cover{
     height:400px ;
-background-image:url("../img/portadarayo.jpg");
+background-image: url("../img/portada.jpeg");
 color: white;
 background-size: cover;
 background-position: center;
-background-color: rgba(0, 0, 0, 0.26);
+background-color: rgb(0,0,0,0.5);
 background-blend-mode: darken;
 
 }
@@ -16,16 +16,4 @@ height: 200px;
 background-blend-mode: normal;
 
 
-}
-.card{
-    box-shadow: 0 4px 6px- 1px rgba(0, 0, 0, 0.1) 0 2px 4px -1px rgba(0, 0, 0, 0.6);
-}
-.card-title {
-    font-family: "dancing Script", cursive;
-    min-height: 3rem;
-
-}
-.card-text{
-    font-family: "Barlow condensed",sans-serif;
-    min-height: 7rem;
 }
